@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The articles of cessation of the Lords and Commons in Parliament presented to His Majesty upon consideration of the former articles, with the alteration and additions offered by His Majesty. And His Majesties gracious answer thereunto. March 22. 1642.</title>
+            <title>Proceedings. 1643-03.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37637</idno>
+            <idno type="STC">Wing E1231</idno>
+            <idno type="STC">ESTC R215016</idno>
+            <idno type="EEBO-CITATION">99827019</idno>
+            <idno type="PROQUEST">99827019</idno>
+            <idno type="VID">31431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1883:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The articles of cessation of the Lords and Commons in Parliament presented to His Majesty upon consideration of the former articles, with the alteration and additions offered by His Majesty. And His Majesties gracious answer thereunto. March 22. 1642.</title>
+                  <title>Proceedings. 1643-03.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Leonard Lichfield, printer to the Vniversity,</publisher>
+                  <pubPlace>Printed by His Majesties command at Oxford, March 25 :</pubPlace>
+                  <date>[March 25] 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31431:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 71 -->
+            <p>THE ARTICLES OF CESSATION OF THE LORDS and COMMONS IN PARLIAMENT, Preſented to HIS MAJESTY upon conſi<g ref="char:EOLhyphen"/>deration of the former Articles, with the Al<g ref="char:EOLhyphen"/>terations and Additions offered by HIS MAJESTY.</p>
+            <p>AND HIS MAIESTIES Gratious Anſwer thereunto. <hi>March</hi> 22. 1642.</p>
+            <p>Printed by His MAJESTIES Command <hi>AT OXFORD, March</hi> 25. By LEONARD LICHFIELD, Printer <hi>to the Vniverſity.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:31431:2"/>
+            <!-- PDF PAGE 72 -->
+            <pb n="1" facs="tcp:31431:2"/>
+            <!-- PDF PAGE 72 -->
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament, be<g ref="char:EOLhyphen"/>ing ſtill carried on with a vehement deſire of Peace, that ſo the Kingdom may ſpeedily be freed from the Deſolation and Deſtruction wherewith it is like to be overwhelmed, if the warre ſhould continue, Have with as much expedition as they could, conſidered of the Articles of Ceſſation, with thoſe Alterations and Ad<g ref="char:EOLhyphen"/>ditions offered by His <hi>Majeſty;</hi> unto which they are ready to agree, in ſuch manner as is expreſt in theſe enſuing Articles. <hi>viz.</hi>
+            </p>
+            <p n="1">1. THat all manner of Armes, Ammunition, Victualls, Mony, Bullion, and all other Commodities paſſing without a ſafe Conduct from the Generalls of both Armies, as well of His Majeſties as of the Armies raiſed by
+<pb n="2" facs="tcp:31431:3"/>
+               <!-- PDF PAGE 73 -->the Parliament, may be ſtayed and ſeazed on, as if no ſuch Ceſſation were agreed on at all.</p>
+            <p n="2">2. That all manner of Perſons paſſing without ſuch a ſafe Conduct, as is mentioned in the Article next going be<g ref="char:EOLhyphen"/>fore, ſhall be apprehended and detained, as if no ſuch Ceſſa<g ref="char:EOLhyphen"/>tion were agreed on at all.</p>
+            <p n="3">3. That His Majeſties forces in <hi>Oxford-ſhire,</hi> ſhall ad<g ref="char:EOLhyphen"/>vance no nearer to <hi>Windſor</hi> then <hi>Wheatly;</hi> &amp; in <hi>Buckingham-ſhire</hi> no neerer to <hi>Aylesbury</hi> then <hi>Brill;</hi> And that in <hi>Berk-ſhire</hi> the forces reſpectively ſhall not advance neerer the one to the other, then they ſhall be at the day to be agreed for the Ceſſation to begin; And that the Forces of the other Army raiſed by the Parliament, ſhall advance no neerer to <hi>Oxford,</hi> then <hi>Henly,</hi> And thoſe in <hi>Buckingham-ſhire</hi> no neerer to <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> then <hi>Aylesbury;</hi> And that the Forces of neither Army ſhall advance their Quarters neerer to each other then they ſhall be upon the day agreed on for the Ceſſation to begin.</p>
+            <p n="4">4. That the Forces of either Army in <hi>Gloceſter-ſhire, Wilts,</hi> and <hi>Wales,</hi> as likewiſe in the Cities of <hi>Glocester</hi> and <hi>Bristoll,</hi> and the Caſtle and Towne of <hi>Berkely,</hi> ſhall be gui<g ref="char:EOLhyphen"/>ded by the Rule expreſt in the later part of the precedent Article.</p>
+            <p n="5">5. That in caſe it be pretended on either ſide, That the Ceſſation is violated, no Act of Hoſtility is immediatly to follow; But firſt the party complaining is to acquaint the Lord Generall on the other ſide, and to allow three daies after notice given for ſatisfaction, and in caſe ſatisfaction be not given, or accepted, then five daies notice to be given be<g ref="char:EOLhyphen"/>fore Hoſtility begin; And the like to be obſerved in the re<g ref="char:EOLhyphen"/>moter Armies by the Commanders in Chiefe.</p>
+            <p n="6">6. That all other Forces in the Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> not before mentioned, ſhall remaine in
+<pb n="3" facs="tcp:31431:3"/>
+               <!-- PDF PAGE 73 -->the ſame Quarters and Places as they are at the time of the publiſhing of this Ceſſation; And under the ſame conditions, as are mentioned in the Articles before, And that this Ceſ<g ref="char:EOLhyphen"/>ſation ſhall not extend to reſtraine the ſetting forth or em<g ref="char:EOLhyphen"/>ploying of any Ships for the defence of His Majeſties Domi<g ref="char:EOLhyphen"/>nions.</p>
+            <p n="7">7. That as ſoon as His Majeſty ſhall be pleaſed to diſ<g ref="char:EOLhyphen"/>band the Armies, (which both Houſes earneſtly deſire may be ſpeedily effected) and to diſarme the Papiſts according to Law; The Subjects may then enjoy the benefit of Peace, and the Liberty of their Perſons, goods and freedome of Trade; In the mean time the Generalls and Commanders of the Armies of both ſides ſhall be enjoyned to keep the Soul<g ref="char:EOLhyphen"/>diers from plundring, which the two Houſes of Parliament have ever diſliked and forbidden.</p>
+            <p>And for the ſpeedy ſetling of this ſo much deſired Peace, they have thought good to ſend their Committees with in<g ref="char:EOLhyphen"/>ſtructions, That if His Majeſty be pleaſed to conſent to a Ceſſation ſo limited, and qualified, They may forthwith proceed to treat upon the Propoſitions; And becauſe the time is ſo farre elapſed in theſe preparations, They deſire the Ceſſation may begin the five and twentieth of this inſtant <hi>March,</hi> or ſooner if it may be, And in the mean time notice to be given to all the Forces in the ſeverall and remote parts, And the Commanders, Officers and Souldiers enjoyned to obſerve this Ceſſation accordingly; To which they hope and pray, That God will give ſuch a Bleſſing, as may produce and confirme Peace, Safety and Happineſſe to His Majeſty, and all His People.</p>
+            <closer>
+               <signed>Io. BROWNE <hi>Cleric. Parliament.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="4" facs="tcp:31431:4"/>
+            <!-- PDF PAGE 74 -->
+            <head>HIS MAJESTIES ANSWER <hi>TO THE AFORESAID</hi> ARTICLES.</head>
+            <p>
+               <seg rend="decorInit">H</seg>IS MAJESTY hath immediat<g ref="char:EOLhyphen"/>ly upon their arrivall admitted the <hi>Committee</hi> ſent to Him from both Houſes of <hi>Parliament</hi> (as the Meſ<g ref="char:EOLhyphen"/>ſengers of Peace) to His Royall preſence, and received the Arti<g ref="char:EOLhyphen"/>cles of Ceſſation brought by them, which are in ef<g ref="char:EOLhyphen"/>fect the ſame His MAJESTY formerly excepted to, though their Expreſsion in the preface to theſe
+<pb n="5" facs="tcp:31431:4"/>
+               <!-- PDF PAGE 74 -->Articles of their readineſſe to agree to thoſe alterati<g ref="char:EOLhyphen"/>ons and additions offered by His <hi>Majeſty</hi> in ſuch manner as is expreſſed, made him Expect to have found at leaſt ſome of the reall alterations and ad<g ref="char:EOLhyphen"/>ditions made by Him admitted, which He doth not diſcover.</p>
+            <p n="1">1. His <hi>Majeſty</hi> deſired that proviſion might be made, and licence given to his good Subjects, for their Freedom of Trade, Traffique, and Commerce, (though in matters which concerned Himſelfe more immediatly, as in Armes, Ammunition, Mo<g ref="char:EOLhyphen"/>ney, Bullion and Victuall for the uſe of His Army, and the Paſſage of all Officers and Souldiers of His Army, He was contented the reſtraint ſhould be in ſuch manner as was propoſed) of which his <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> is ſo tender, that as he hath provided for the ſame by His gratious Proclamations, ſo he doth dayly releaſe and diſcharge ſuch Merchandize and Commodities as are contrary to thoſe Proclamati<g ref="char:EOLhyphen"/>ons ſtayed by any of His <hi>Majeſties</hi> Forces.</p>
+            <p>To this freedome and liberty of His good Sub<g ref="char:EOLhyphen"/>jects there is not the leaſt Admiſsion given by theſe Articles, ſo that they have not any eaſe or benefit by this Ceſſation, which His <hi>Majeſty</hi> deſires both Hou<g ref="char:EOLhyphen"/>ſes to conſider of, and whether if his <hi>Majeſty</hi> ſhould
+<pb n="6" facs="tcp:31431:5"/>
+               <!-- PDF PAGE 75 -->take the ſame Courſe to ſtop &amp; interrupt the Trade of the Kingdom, as the other Army doth, a gene<g ref="char:EOLhyphen"/>rall loſſe and Calamity would not ſeiz upon His good Subjects.</p>
+            <p n="2">2. His <hi>Majeſty</hi> to the end that a full Ceſſation might be as well at Sea as at land, and He might be ſecured that the Ships propoſed to be ſet forth for the defence of His <hi>Majeſties</hi> Dominions, ſhould be employed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> only to that end and purpoſe, deſired that they might be put under the command of Per<g ref="char:EOLhyphen"/>ſons to be approved of by His <hi>Majeſty,</hi> which is not conſented to by theſe Articles, but their former, to which His <hi>Majeſty</hi> Excepted, ſtrictly and entire<g ref="char:EOLhyphen"/>ly inſiſted on, by which (beſides that part of hoſti<g ref="char:EOLhyphen"/>lity remaines) the conveying of any number of Forces from any part to any other by that meanes remaine free to them.</p>
+            <p n="3">3. For the prevention of any inconveniences which might ariſe upon reall differences or miſt<g ref="char:EOLhyphen"/>akes upon the latitude of Expreſsions (as if His <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> ſhould now conſent to theſe Articles propo<g ref="char:EOLhyphen"/>ſed in the tearms propoſed, He muſt confeſſe the Army of which He complaines to be raiſed by the Parliament, and either Himſelfe to be no part of the Parliament, or himſelfe to have raiſed that Army)
+<pb n="7" facs="tcp:31431:5"/>
+               <!-- PDF PAGE 75 -->and for prevention of that delay, which he foreſaw could not otherwiſe be avoyded, if upon every dif<g ref="char:EOLhyphen"/>ference the Queſtions muſt be remitted to <hi>London,</hi> His <hi>Majeſty</hi> deſired, that the committee (for whom He then ſent a ſafe Conduct) might have liberty to debate any ſuch differences and expreſsions, and reconcile the ſame, that all poſsible expedition might be uſed to the main Treaty.</p>
+            <p>In this poynt of ſo high concernment no Power is given in theſe Articles, and the Committee con<g ref="char:EOLhyphen"/>feſſed to His <hi>Majesty</hi> they have no power given, but are ſtrictly and preciſely bound to the very words of the Articles now ſent, and that before theſe are conſented to by His <hi>Majeſty,</hi> they cannot enter in<g ref="char:EOLhyphen"/>to any Treaty concerning the other Propoſitions.</p>
+            <p n="4">4. His <hi>Majesty</hi> deſired that, during the Ceſſati<g ref="char:EOLhyphen"/>on, none of his good Subjects might be impriſoned, otherwiſe then according to the known lawes of the Land.</p>
+            <p>This is in no degree conſented to, but the Privi<g ref="char:EOLhyphen"/>ledge and liberty (to which they were borne) re<g ref="char:EOLhyphen"/>ſerved from them till the disbanding of both Ar<g ref="char:EOLhyphen"/>mies, (though they are no part of either Army) and ſo have no benefit by this Ceſſation.</p>
+            <p n="5">5. His <hi>Majeſty</hi> deſired that, during this Ceſſati<g ref="char:EOLhyphen"/>on
+<pb n="8" facs="tcp:31431:6"/>
+               <!-- PDF PAGE 76 -->there ſhould be no Plundering or Violence of<g ref="char:EOLhyphen"/>fered to any of His Subjects.</p>
+            <p>In the Anſwer to which, His deſire againſt Vio<g ref="char:EOLhyphen"/>lence is not at all taken notice of, nor is his deſire a<g ref="char:EOLhyphen"/>gainſt Plundering any waies ſatisfied, His <hi>Majeſty</hi> not only intending by it the robbing of the Subject by the unrulines of the uncommanded Souldier (which their clauſe of requiring the Generall and Officers to keep them from it ſeemes to im<g ref="char:EOLhyphen"/>ply, and the aſſertion that the two Houſes of Par<g ref="char:EOLhyphen"/>liament had ever diſliked and forbidden it, declares plainly to be their only meaning) but particularly the violence and Plundering uſed to His Subjects, by forcibly taking away their goods, for not ſub<g ref="char:EOLhyphen"/>mitting to Impoſitions and Taxes required from them, by Orders or Ordinances of one or both Houſes of Parliament, which are contrary to the known Lawes of the Land.</p>
+            <p n="6">6. Beſides, that there is no conſent given to thoſe alterations and additions offered by His Ma<g ref="char:EOLhyphen"/>jeſty (whatever is pretended) ſo, where an abſo<g ref="char:EOLhyphen"/>lute conſent may be ſuppoſed, becauſe the very words of His Majeſties Article are wholly preſer<g ref="char:EOLhyphen"/>ved, yet by reaſon of the relation to ſomewhat go<g ref="char:EOLhyphen"/>ing before, that is varied by them, the ſenſe of thoſe
+<pb n="9" facs="tcp:31431:6"/>
+               <!-- PDF PAGE 76 -->words is wholly varied too, as in the fourth Article, that part of the third Article, to which that did re<g ref="char:EOLhyphen"/>ferre, being wholly left out. So that upon the mat<g ref="char:EOLhyphen"/>ter all the Propoſitions made by His Majeſty (which did not in termes agree with thoſe preſen<g ref="char:EOLhyphen"/>ted to Him) are utterly rejected.</p>
+            <p>For theſe Reaſons, and that this entrance to<g ref="char:EOLhyphen"/>wards a bleſſed Peace and Accommodation (which hath already filled the hearts of the King<g ref="char:EOLhyphen"/>dom with joy and hope) may be improved to the wiſhed end, His Majeſty deſires that the Com<g ref="char:EOLhyphen"/>mittee now ſent may ſpeedily have liberty to Treat, debate, and agree upon the Articles of Ceſſation, in which they, and all the World ſhall find, That His Majeſty is leſſe ſollicitous for His own dignity and greatneſſe, then for His Subjects eaſe and liberty. And He doubts not upon ſuch a debate, all diffe<g ref="char:EOLhyphen"/>rences concerning the Ceſſation will be eaſily and ſpeedily agreed upon, and the benefit of a Ceſſation be continued and confirmed to His People, by a ſpeedy disbanding of both Armies, and a ſudden and firme Peace, which His Majeſty aboue all things deſires.</p>
+            <p>If this ſo reaſonable, equall, and juſt deſire of His Majeſty ſhall not be yeelded unto, but the ſame
+<pb n="10" facs="tcp:31431:7"/>
+               <!-- PDF PAGE 77 -->Articles ſtill inſiſted upon, though His Majeſty next to Peace deſires a Ceſſation, yet that the not agree<g ref="char:EOLhyphen"/>ing upon the one may not deſtroy the Hopes of, nor ſo much as delay the other, He is willing how<g ref="char:EOLhyphen"/>ever to Treat (even without a Ceſſation, if that be not granted) upon the Propoſitions themſelves in that order as is agreed upon, (and deſires the Committee here may be enabled to that effect.) In which Treaty He ſhall give all His Subjects that ſatisfaction, that if any ſecurity to enjoy all the Rights, Priviledges and Liberties due to them by the Law, or that happineſſe in Church and State, which the beſt times have ſeen, with ſuch farther Acts of Grace as may agree with His Honour, Iu<g ref="char:EOLhyphen"/>ſtice and Duty to His Crown, &amp; as may not render Him leſſe able to protect His Subjects, according to His Oath, will ſatisfy them, He is confident in the Mercy of God, that no more pretious Blood of this Nation will be thus miſerably ſpent.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
